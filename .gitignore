@@ -1,0 +1,26 @@
+# ROS 2 generated directories
+/build/
+/install/
+/log/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+
+# IDE configuration
+.vscode/
+.idea/
+
+# Temporary files
+*.swp
+*.tmp
+*~
+
+# ROS bag recordings
+*.db3
+*.mcap
+
+# System files
+.DS_Store
